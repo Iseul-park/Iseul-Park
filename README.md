@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Iseul-park/Iseul-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
 
-Here are some ideas to get you started:
+- 😊 Full Stack Developer  
+- 🏣 I’m currently learning Computer Programming in ALgonquin College.
+- 🙋 I’m looking for a Co-op job position for Fall season.
+- 📧 How to reach me: shannon.iseul.p@gmail.com
+- 🌎 LinkedIn: www.linkedin.com/in/iseulpark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My skills
+ 
+- 📘 Back-end: Java, COBOL
+- 📙 Front-end: HTML, CSS, JavaScript, React, AJAX, Bootstrap
+- 📒 Database: MySQL, Oracle, SQL Server, MS Access, PostgreSQL
+- 📗 Operating systems: Windows, Linux
+- 📕 Tools: VSCode, GitHub, NetBean, Eclipse
+
