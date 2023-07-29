@@ -3,7 +3,7 @@
 #### About me
 
 - 😊 Full Stack Developer  
-- 🏣 I’m currently learning Computer Programming in ALgonquin College.
+- 🏣 I’m currently learning Computer Programming in Algonquin College.
 - 🙋 I’m looking for a Co-op job position for Fall season.
 - 📧 How to reach me: shannon.iseul.p@gmail.com
 - 🌎 LinkedIn: www.linkedin.com/in/iseulpark
